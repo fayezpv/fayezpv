@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D5FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Fayes+Pv+%F0%9F%91%8B;Cloud+%26+Networking+Learner;Cybersecurity+%7C+IT+Infrastructure;Full-Stack+Developer+%7C+Embedded+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D5FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Fayes+Pv+%F0%9F%91%8B;Cloud+%26+Networking+Learner;Cybersecurity+%7C+IT+Infrastructure;Full-Stack+Developer+%7C" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/fayezpv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fayes-pv-8316842b3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href=https://github.com/fayezpv><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:pvfayes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -32,9 +32,7 @@ I am currently building my skills in cloud technologies, network systems, cybers
 - Networking and Infrastructure
 - Cybersecurity
 - Linux and System Administration
-- Embedded Systems
 - Full-Stack Development
-- Automation and Secure System Design
 
 I enjoy learning through projects, certifications, and hands-on experimentation to strengthen both my technical and practical expertise.
 
@@ -68,34 +66,6 @@ I enjoy learning through projects, certifications, and hands-on experimentation 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fayezpv&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fayezpv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-- [Docket](https://github.com/fayezpv/Docket)  
-  College event management platform with registration, attendance, notifications, and admin features.
-
-- [Cloud & Networking Practice](https://github.com/fayezpv/cloud-networking-practice)  
-  Learning-focused projects around networking, infrastructure, and secure system setup.
-
-- [Cybersecurity Lab](https://github.com/fayezpv/cybersecurity-lab)  
-  Security practice, network exploration, and learning tasks.
-
-- [Embedded Projects](https://github.com/fayezpv/embedded-projects)  
-  Hands-on embedded and hardware-related experiments.
 
 ---
 
